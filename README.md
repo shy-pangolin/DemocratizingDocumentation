@@ -1,2 +1,4 @@
-# Talk-Slides
-Backup copies of any talk slides i make and use
+# Democratizing Documentation
+DIY Ethic in Open Source Publishing
+
+
