@@ -27,5 +27,7 @@
   
   
 ## Contact Info
-If you have any questions, suggestions, or just want to hack on/talk about zines, I can be reached:
-* On IRC at @shy
+If you have any questions, suggestions, or just want to hack on/talk about zines, I can be reached on:
+* Twitter: @MeganGuiney
+* IRC: shy-pangolin
+* Email: 5hy.p4ng0l1n@gmail.com
