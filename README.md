@@ -2,6 +2,6 @@
 DIY Ethic in Open Source Publishing
 
 ## Content
-* [Slides](slides/README.md)
+* [Slides](slides/)
 * [Resources Page](ZineResources.md)
 
